@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+[![MasterHeader](./Banner Profile/github-header-image.png)]
 <h1 align="center">Hi 👋, I'm Saurav Kumar</h1>
 <h3 align="center">A passionate web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1068771/screenshots/14225432/media/0da8c461ba3920a8c827d864a6e051ed.jpg"
